@@ -16,7 +16,12 @@ News
 
 Research Interests
 ======
-1. ...
+- Networked Real-Time Control Systems
+- Fault-Tolerant Control
+- Cooperative Control
+- Optimization
+- System Verification
+- Nonlinear System Design  
 
 Selected Publications
 ======
