@@ -1,16 +1,15 @@
 ---
-layout: archive
-title: "Publications"
+title: "Publications ([Google Scholar Profile](https://scholar.google.com/citations?user=ZN73_1AAAAAJ&hl=en&oi=ao))"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+## Image Processing
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* An Effective Approach for Multi-label Classification with Missing Labels.<br>
+Xin Zhang, Rabab Abdelfattah, <b>Yuqi Song</b>, et al.<br>
+<i>International Conference on HPCC/DSS/SmartCity/DependSys</i>, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10074854) 
+
+
+
