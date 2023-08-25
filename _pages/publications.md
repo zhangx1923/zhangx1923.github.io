@@ -7,9 +7,9 @@ author_profile: true
 
 ## Image Processing
 
-* An Effective Approach for Multi-label Classification with Missing Labels.<br>
-Xin Zhang, Rabab Abdelfattah, <b>Yuqi Song</b>, et al.<br>
-<i>International Conference on HPCC/DSS/SmartCity/DependSys</i>, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10074854) 
+* title.<br>
+<b>Xiaofeng Wang</b>, xx, xx, et al.<br>
+<i>conference name</i>, year. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10074854) 
 
 
 
