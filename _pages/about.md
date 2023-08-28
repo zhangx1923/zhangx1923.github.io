@@ -1,18 +1,14 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Xiaofeng Wang"
+excerpt: "News"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Self introduction here modifyyyyyyyyyyyyyyyyyy.
-
-News
-======
-...
+news1
 
 Education
 ======
