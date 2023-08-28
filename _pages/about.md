@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Xiaofeng Wang"
-excerpt: "News"
+excerpt: "Xiaofeng Wang"
 author_profile: true
 redirect_from: 
   - /about/
