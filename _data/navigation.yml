@@ -4,19 +4,19 @@ main:
 - title: "About Me"
   url: /aboutme/
 
-  - title: "Research"
-    url: /research/ 
-    
-  - title: "Publications"
-    url: /publications/
+- title: "Research"
+  url: /research/ 
+  
+- title: "Publications"
+  url: /publications/
 
-   
+ 
 
-  - title: "Teaching"
-    url: /teaching/    
+- title: "Teaching"
+  url: /teaching/    
 
-  - title: "Group"
-    url: /Group/  
+- title: "Group"
+  url: /Group/  
 
   # - title: "CV"
   #   url: /cv/
